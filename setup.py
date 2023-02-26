@@ -5,7 +5,7 @@ with open("README.md", 'r') as f:
 
 setup(
    name='SecretsManagerInterface',
-   version='1.0.3',
+   version='1.0.4',
    description='Python Interface to Streamline Access to SecretsManager secrets.',
    long_description=long_description,
    author='Pakkapol Lailert',
